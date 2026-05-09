@@ -59,16 +59,19 @@ const deepak = {
 
 ---
 
-### GitHub
+## stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deesh-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=tokyonight&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deesh-dev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1&langs_count=8" alt="top langs"/>
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deesh-dev&hide_border=true&background=0f172a&stroke=0f172a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=94a3b8" alt="streak"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deesh-dev&theme=tokyonight" alt="profile" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deesh-dev&theme=tokyonight" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deesh-dev&theme=tokyonight&utcOffset=5" alt="productive" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deesh-dev&theme=tokyonight" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deesh-dev&theme=tokyonight" alt="commits" />
+
+</div>
 
 ---
 
