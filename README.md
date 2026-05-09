@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/deesh-dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Deepak%20Kumar&fontColor=f8fafc&fontSize=58&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20speech%20and%20software&descAlignY=62&descSize=16&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Deepak%20Kumar&fontColor=f8fafc&fontSize=58&fontAlignY=38&desc=Building%20agents%20that%20actually%20do%20the%20work&descAlignY=62&descSize=16&descAlign=50" alt="header" />
 </a>
 
 <p>
@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/github/followers/deesh-dev?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=deesh-dev&label=Profile+views&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="profile views"/>
-  <a href="mailto:workforudeepak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-workforudeepak@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="email"/>
+  <a href="mailto:founder@opendictate.ai">
+    <img src="https://img.shields.io/badge/Email-founder@opendictate.ai-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="email"/>
   </a>
 </p>
 
@@ -24,10 +24,10 @@
 const deepak = {
   location:  "India",
   role:      "Founder & Full-stack Engineer",
-  building:  "OpenDictate — realtime dictation + AI assistant",
+  building:  "OpenDictate — autonomous agent for browser + native OS automation",
   stack:     ["Rust", "TypeScript", "Svelte 5", "Tauri 2", "Bun", "PostgreSQL"],
   loves:     ["computers", "the gym", "shipping fast"],
-  currently: "turning voice into the fastest input on the desktop"
+  currently: "teaching agents to drive real software, not just chat about it"
 } as const;
 ```
 
@@ -35,15 +35,16 @@ const deepak = {
 
 ### Currently building — OpenDictate
 
-> Realtime speech-to-text dictation app for macOS & Windows. Voice-driven AI assistant **Zia**. Sub-second latency. Native feel.
+> A general-purpose automation agent for **macOS, Windows, and Linux**. Drives the **browser** and **native OS apps** end-to-end — clicks, types, navigates, reasons, finishes the job. No more workflow glue. No more brittle scripts.
 
 | Layer | Tech |
 | --- | --- |
-| **Desktop** | Svelte 5 · Tauri 2 · Rust |
+| **Agent runtime** | Rust · Tauri 2 |
+| **UI** | Svelte 5 · TypeScript |
 | **Backend** | Bun · Elysia · PostgreSQL |
-| **Realtime STT** | Mistral |
-| **AI assistant** | OpenAI |
-| **TTS** | Cartesia |
+| **Browser control** | CDP · accessibility tree |
+| **Native control** | OS-level accessibility APIs |
+| **Reasoning** | Multi-model LLM routing |
 | **Web** | Svelte 5 · Tailwind · Cloudflare Workers |
 
 <sub>Source code is private during closed beta.</sub>
@@ -74,8 +75,8 @@ const deepak = {
 ### Reach me
 
 <p>
-  <a href="mailto:workforudeepak@gmail.com">
-    <img src="https://img.shields.io/badge/-workforudeepak@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
+  <a href="mailto:founder@opendictate.ai">
+    <img src="https://img.shields.io/badge/-founder@opendictate.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
   <a href="https://github.com/deesh-dev">
     <img src="https://img.shields.io/badge/-@deesh--dev-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
