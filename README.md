@@ -47,7 +47,7 @@ const deepak = {
 | **Reasoning** | Multi-model LLM routing |
 | **Web** | Svelte 5 · Tailwind · Cloudflare Workers |
 
-<sub>Source code is private during closed beta.</sub>
+<sub>Closed source. Commercial product.</sub>
 
 ---
 
