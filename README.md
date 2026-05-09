@@ -37,22 +37,12 @@ const deepak = {
 
 > A general-purpose automation agent for **macOS, Windows, and Linux**. Drives the **browser** and **native OS apps** end-to-end — clicks, types, navigates, reasons, finishes the job. No more workflow glue. No more brittle scripts.
 
-| Layer | Tech |
-| --- | --- |
-| **Agent runtime** | Rust · Tauri 2 |
-| **UI** | Svelte 5 · TypeScript |
-| **Backend** | Bun · Elysia · PostgreSQL |
-| **Browser control** | CDP · accessibility tree |
-| **Native control** | OS-level accessibility APIs |
-| **Reasoning** | Multi-model LLM routing |
-| **Web** | Svelte 5 · Tailwind · Cloudflare Workers |
-
 ---
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,svelte,tauri,bun,nodejs,postgres,tailwind,cloudflare,docker,git,linux&perline=12" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=rust,ts,svelte,tauri,postgres,bun&perline=6" alt="stack"/>
 </p>
 
 ---
